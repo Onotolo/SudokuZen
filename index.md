@@ -2,7 +2,7 @@
 
 This Privacy Policy applies to Sudoku Zen (hereinafter, "us", "we", or "Sudoku Zen") mobile application.
 
-We do not collect nor store any personal data.
+We neither collect nor store any personal data.
 
 ### 1. Links To External Sites
 
