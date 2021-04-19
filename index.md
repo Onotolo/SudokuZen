@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/Onotolo/SudokuZen/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This Privacy Policy applies to Sudoku Zen mobile application.
+We do not collect nor store any personal data.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 1. Links To External Sites
 
-### Markdown
+Our Service may contain links to external sites that are not operated by us.
+If you click on a third party link, you will be directed to that third party's site. 
+We strongly advise you to review the Privacy Policy and terms of service of every site you visit.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites, products or services.
 
-```markdown
-Syntax highlighted code block
+### 2. Privacy Policy Changes
 
-# Header 1
-## Header 2
-### Header 3
+Although most changes are likely to be minor, Sudoku Zen may change its Privacy Policy from time to time, and in Sudoku Zen's sole discretion.
+Sudoku Zen encourages visitors to frequently check this page for any changes to its Privacy Policy.
+Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-- Bulleted
-- List
+### 3. Contact Information
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Onotolo/SudokuZen/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you have any questions about our Privacy Policy, please contact us via [email](mailto:cyanlabinc@gmail.com)
